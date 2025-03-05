@@ -13,6 +13,7 @@ const EducationSection = () => {
                 <span className="inline-block px-2 py-1 md:px-3 md:py-1 bg-blue-500/20 text-blue-300 rounded-full text-xs font-medium mb-2">
                   Jan 2024 - March 2025
                 </span>
+                
                 <h3 className="text-base sm:text-lg md:text-xl font-semibold text-white">Masters in Computer Science</h3>
                 <p className="text-xs sm:text-sm md:text-base text-blue-200 mt-1">University of Central Missouri</p>
                 <div className="mt-1 md:mt-2 px-2 py-1 md:px-3 md:py-1 bg-blue-500/20 inline-block rounded-full">
